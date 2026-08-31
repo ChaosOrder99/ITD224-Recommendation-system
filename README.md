@@ -1,6 +1,6 @@
 # ITD224-Recommendation-system
 ITD224 Recommendation system
-Here’s an updated README write-up tailored to your use of **`movie.csv`** and **`ratings.csv`** from Kaggle:
+This project is part of a work for a group project. Access the Team 3 Group Repo Link: https://github.com/mattstasks/mattstasks.github.io
 
 ---
 
